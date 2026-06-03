@@ -1,0 +1,52 @@
+[
+  {
+    "question_id": "G1A01",
+    "correct_answer": "C",
+    "question": "On which HF and/or MF amateur bands are there portions where General class licensees cannot transmit?",
+    "choices": {
+      "A": "60 meters, 30 meters, 17 meters, and 12 meters",
+      "B": "160 meters, 60 meters, 15 meters, and 12 meters",
+      "C": "80 meters, 40 meters, 20 meters, and 15 meters",
+      "D": "80 meters, 20 meters, 15 meters, and 10 meters"
+    }
+  },
+  {
+    "question_id": "G1A02",
+    "correct_answer": "B",
+    "question": "On which of the following bands is phone operation prohibited?",
+    "choices": {
+      "A": "160 meters",
+      "B": "30 meters",
+      "C": "17 meters",
+      "D": "12 meters"
+    }
+  },
+  {
+    "question_id": "G1A03",
+    "correct_answer": "B",
+    "question": "On which of the following bands is image transmission prohibited?",
+    "choices": {
+      "A": "160 meters",
+      "B": "30 meters",
+      "C": "20 meters",
+      "D": "12 meters"
+    }
+  },
+  {
+    "question_id": "G1A05",
+    "correct_answer": "A",
+    "question": "On which of the following frequencies are General class licensees prohibited from operating as control operator?",
+    "choices": {
+      "A": "7.125 MHz to 7.175 MHz",
+      "B": "28.000 MHz to 28.025 MHz",
+      "C": "21.275 MHz to 21.300 MHz",
+      "D": "All these choices are correct"
+    }
+  },
+  {
+    "question_id": "G1A06",
+    "correct_answer": "C",
+    "question": "Which of the following applies when the FCC rules designate the amateur service as a secondary user on a band?",
+    "choices": {
+      "A": "Amateur stations must record the call sign of the primary
+ 
