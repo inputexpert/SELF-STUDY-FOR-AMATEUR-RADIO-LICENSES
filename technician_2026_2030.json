@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "exam": "Technician Class (Element 2)",
+    "period": "2026-2030",
+    "version": "1.0"
+  },
+  "questions": [
+    {
+      "id": "T1A01",
+      "sub_element": "T1A",
+      "question": "PLACE YOUR COPIED TEXT HERE",
+      "answers": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correct": "A",
+      "explanation": "Add explanation here"
+    }
+  ]
+}
