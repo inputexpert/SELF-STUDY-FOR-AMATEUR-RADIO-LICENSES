@@ -1,0 +1,95 @@
+{
+  "document_title": "2024-2028 Extra Class Question Pool",
+  "errata": [
+    {
+      "errata_name": "4th Errata",
+      "issue_date": "2026-02-04",
+      "changes": {
+        "withdrawn_questions": [
+          {
+            "question_id": "E4D05",
+            "action": "removed from use",
+            "notes": "Question E4D05 is withdrawn from the pool and marked as deleted. Remaining questions in E4D were not renumbered, leaving 13 questions."
+          }
+        ]
+      }
+    },
+    {
+      "errata_name": "3rd Errata",
+      "issue_date": "2025-09-25",
+      "changes": {
+        "withdrawn_questions": [
+          {
+            "question_id": "E6D07",
+            "action": "removed from use",
+            "notes": "Question E6D07 is withdrawn from the pool and marked as deleted. Remaining questions in E6D were not renumbered, leaving 11 questions."
+          }
+        ]
+      }
+    },
+    {
+      "errata_name": "2nd Errata",
+      "issue_date": "2024-11-08",
+      "changes": {
+        "withdrawn_questions": [
+          {
+            "question_id": "E2A13",
+            "action": "removed from use",
+            "notes": "Question E2A13 is withdrawn from the pool and marked as deleted; the remaining questions in E2A were not renumbered, leaving 12 questions."
+          }
+        ]
+      }
+    },
+    {
+      "errata_name": "1st Errata",
+      "issue_date": "2024-01-31",
+      "changes": {
+        "modified_diagrams": [
+          {
+            "diagram_id": "E9-3",
+            "description": "The Smith Chart has been rotated 90 degrees to the conventional horizontal orientation with infinity on the right. All pool documents (PDF, JPG, and Word) have been updated."
+          }
+        ],
+        "withdrawn_questions": [
+          {
+            "question_id": "E9E10",
+            "action": "removed from use",
+            "notes": "Question E9E10 is withdrawn from the pool and marked as deleted; the remaining questions in E9E were not renumbered, leaving 10 questions."
+          }
+        ],
+        "modified_questions": [
+          {
+            "question_id": "E1D07",
+            "change": "In the question change 'group of' to 'of the following' to read: Which of the following HF amateur bands include allocations for space stations?"
+          },
+          {
+            "question_id": "E1F03",
+            "change": "Replace answer D to read: D. The amplifier is constructed or modified by an amateur radio operator for use at an amateur station"
+          },
+          {
+            "question_id": "E4D12",
+            "change": "In the question change '100 W' to '10 W' to read: What is the link margin in a system with a transmit power level of 10 W (+40 dBm), a system antenna gain of 10 dBi, a cable loss of 3 dB, a path loss of 136 dB, a receiver minimum discernable signal of -103 dBm, and a required signal-to-noise ratio of 6 dB?"
+          },
+          {
+            "question_id": "E4D13",
+            "change": "In the question change '100 W' to '10 W' to read: What is the received signal level with a transmit power of 10 W (+40 dBm), a transmit antenna gain of 6 dBi, a receive antenna gain of 3 dBi, and a path loss of 100 dB?"
+          },
+          {
+            "question_id": "E6A06",
+            "change": "In answer B add 'the change in' before base current to read: B. The change in collector current with respect to the change in base current"
+          }
+        ],
+        "updated_fcc_rule_citations": [
+          {
+            "question_id": "E1E10",
+            "change": "Update the rule citation's letter from 'h' to 'm' to read: E1E10 (C) [97.509(m)]"
+          },
+          {
+            "question_id": "E1E11",
+            "change": "Update the rule citation's letter from 'm' to 'i' to read: E1E11 (B) [97.509(i)]"
+          }
+        ]
+      }
+    }
+  ]
+}
